@@ -10,7 +10,7 @@ Shader "Custom/UIAlphaWithEllipse"
 
     SubShader
     {
-        Tags { "Queue" = "UI" "IgnoreProjector" = "True" "RenderType" = "Transparent" }
+        Tags { "Queue" = "Transparent" "IgnoreProjector" = "True" "RenderType" = "Transparent" }
 
         Pass
         {
